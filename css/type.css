@@ -1,9 +1,42 @@
+header {
+
+    padding-top: 37px;
+    padding-bottom: 37px;
+}
+
+.navbar navbar-default {
+
+    padding-top: 100px;
+
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 43px;
+    color: #44c0c2;
+
+}
 
 
-/*# sourceMappingURL=type.css.map */
+
+.link {
+    color: black;
+
+}
+
+
+
 .col-lg-3 { margin-top: 100px; }
 
 .please {
 
  margin-bottom: 100px;
 }
+
+li {
+
+    list-style-type: none;
+
+
+}
+

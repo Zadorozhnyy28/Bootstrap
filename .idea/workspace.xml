@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4caf80f3-0f34-4fec-8dde-eb2e40e04a6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/1f3a8dd32d07557efbfbd3a7d77ad198f43c995b/type.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/1f3a8dd32d07557efbfbd3a7d77ad198f43c995b/type.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/type.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/type.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/type.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/type.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/type.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +71,16 @@
       <workItem from="1580989106869" duration="1114000" />
       <workItem from="1580992196243" duration="1804000" />
       <workItem from="1580994030257" duration="1674000" />
-      <workItem from="1580995846714" duration="267000" />
+      <workItem from="1580995846714" duration="1148000" />
+      <workItem from="1580997811157" duration="1562000" />
+      <workItem from="1580999627424" duration="519000" />
+      <workItem from="1581003020298" duration="1670000" />
+      <workItem from="1581004831448" duration="1452000" />
+      <workItem from="1581006642392" duration="1441000" />
+      <workItem from="1581008461451" duration="1125000" />
+      <workItem from="1581010270739" duration="1080000" />
+      <workItem from="1581012751259" duration="165000" />
+      <workItem from="1581013045340" duration="22000" />
     </task>
     <servers />
   </component>
